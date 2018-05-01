@@ -8,14 +8,25 @@ Wherever communities of deaf people exist, sign languages have developed, and ar
 ## Contents
 
 - [Resources](#resources)
-	- [Tutorials](#tutorials)
+	- [Universities](#universities)
+	- [Researchers](#researchers)
+	- [Learn Sign Language](#learn-sign-language)
+	- [Sign Language Projects](#sign-language-projects)
 	- [Community](#community)
 - [Contribution](#contribution)
 
 
 ## Resources
 
-### Tutorials
+### Universities
+
+-
+
+### Researchers
+
+-
+
+### Learn Sign Language
 
 -
 
