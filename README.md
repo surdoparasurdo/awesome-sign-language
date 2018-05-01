@@ -32,7 +32,24 @@ Wherever communities of deaf people exist, sign languages have developed, and ar
 
 ### Learn Sign Language
 
--
+#### Libras / BSL - Brazilian Sign Language
+
+- [Free Course by University of São Paulo (USP)](https://blog.surdoparasurdo.com.br/gr%C3%A1tis-curso-de-libras-da-universidade-de-s%C3%A3o-paulo-bed343119975) - USP offers free and online Brazilian Sign Language course.
+- [Learn with Deaf Youtubers](https://blog.surdoparasurdo.com.br/12-canais-de-youtube-em-libras-3aacb3a8fb8b) - Follow and learn with Deaf youruber. Videos in Brazilian Sign Language.
+- [Private lessons with Deaf tutors](https://surdoparasurdo.com.br/en) - Learn online with a Deaf private tutor.
+
+#### ASL - American Sign Language
+
+- [The ASL App](http://theaslapp.com) - THE ASL APP is all about teaching you conversational ASL.
+- [Books, Media, and Classes by Gallaudet](http://www3.gallaudet.edu/clerc-center/info-to-go/asl/learning-asl-books_media_classes.html) - Connects to resources about learning ASL, including where to find ASL classes.
+
+#### ISL - Irish Sign Language
+
+- [Learn Irish Sign Language](http://www.learnirishsignlanguage.ie) - Learn at your own pace. Your reference library for beginners signs.
+
+#### BSL - British Sign Language
+
+- [Learn British Sign Language](https://www.british-sign.co.uk) - British Sign Language online course, free resources, games, information, and greeting cards.
 
 ### Community
 
