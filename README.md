@@ -20,7 +20,11 @@ Wherever communities of deaf people exist, sign languages have developed, and ar
 
 ### Universities
 
--
+- [Gallaudet University](http://www.gallaudet.edu) - The world's only university designed to be barrier-free for deaf and hard of hearing students.
+- [National Technical Institute for the Deaf - NTID](http://www.ntid.rit.edu) - The primary mission of the institute is to provide Deaf and hard-of-hearing students with outstanding state-of-the-art technical and professional education programs.
+- [Instituto Nacional de Educação de Surdos - INES](http://www.ines.gov.br) - Brazil's first Deaf school.
+- [Universidade Federal de Santa Catarina - UFSC](https://libras.ufsc.br) - The university created the first degree course in Portuguese / Libras (Brazilian Sign Language) in Brazil, becoming a national reference in sign language.
+- [National Institute for Deaf Children of Paris](http://www.injs-paris.fr) -  Deaf school founded by Charles-Michel de l'Épée in 1760, in Paris, France.
 
 ### Researchers
 
