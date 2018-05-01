@@ -56,7 +56,12 @@ Wherever communities of deaf people exist, sign languages have developed, and ar
 - [Github Projects](https://github.com/topics/sign-language)
 - [Stack Overflow Questions](https://stackoverflow.com/search?q=sign+language)
 - [Twitter](https://twitter.com/search?q=sign%20language)
-- [World Federation of the Deaf](https://wfdeaf.org)
+
+#### Foundations
+
+- [World Federation of the Deaf](https://wfdeaf.org) - The World Federation of the Deaf is a global organisation working to ensure equal rights for 70 million people around the globe.
+- [Deaf Child Worldwide](http://www.deafchildworldwide.info) - They are the UK's leading international charity for deaf children in developing countries.
+- [Nyle DiMarco Foundation](https://nyledimarcofoundation.com) - Improving Deaf people's lives; Access to accurate, research-based information about early language acquisition- specifically, the bilingual education approach.
 
 ## Contribution
 
