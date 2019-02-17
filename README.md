@@ -38,15 +38,22 @@ Wherever communities of deaf people exist, sign languages have developed, and ar
 - [Free Course by University of São Paulo (USP)](https://blog.surdoparasurdo.com.br/gr%C3%A1tis-curso-de-libras-da-universidade-de-s%C3%A3o-paulo-bed343119975) - USP offers free and online Brazilian Sign Language course.
 - [Learn with Deaf Youtubers](https://blog.surdoparasurdo.com.br/12-canais-de-youtube-em-libras-3aacb3a8fb8b) - Follow and learn with Deaf youruber. Videos in Brazilian Sign Language.
 - [Private lessons with Deaf tutors](https://surdoparasurdo.com.br/en) - Learn online with a Deaf private tutor.
+- [Learn first signs to start a conversation](https://aprenda-libras.surdoparasurdo.com.br) - Progressive Web App to learn first signs to start a conversation.
+- [Sid Sinais - Chatbot help to find signs in Libras](http://sid-sinais.surdoparasurdo.com.br) - Chatbot that find signs in Libras.
+
+#### LGP - Portuguese Sign Language
+- [Sid Sinais - Chatbot help to find signs in LGP](http://sid-sinais.surdoparasurdo.com.br) - Chatbot that find signs in LGP.
 
 #### ASL - American Sign Language
 
 - [The ASL App](http://theaslapp.com) - THE ASL APP is all about teaching you conversational ASL.
 - [Books, Media, and Classes by Gallaudet](http://www3.gallaudet.edu/clerc-center/info-to-go/asl/learning-asl-books_media_classes.html) - Connects to resources about learning ASL, including where to find ASL classes.
+- [Sid Signs - Chatbot help to find signs in ASL](http://sid-sinais.surdoparasurdo.com.br) - Chatbot that find signs in ASL.
 
 #### ISL - Irish Sign Language
 
 - [Learn Irish Sign Language](http://www.learnirishsignlanguage.ie) - Learn at your own pace. Your reference library for beginners signs.
+- [Sid Signs - Chatbot help to find signs in ISL](http://sid-sinais.surdoparasurdo.com.br) - Chatbot that find signs in ISL.
 
 #### BSL - British Sign Language
 
