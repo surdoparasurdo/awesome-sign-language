@@ -25,6 +25,7 @@ Wherever communities of deaf people exist, sign languages have developed, and ar
 - [Instituto Nacional de Educação de Surdos - INES](http://www.ines.gov.br) - Brazil's first Deaf school.
 - [Universidade Federal de Santa Catarina - UFSC](https://libras.ufsc.br) - The university created the first degree course in Portuguese / Libras (Brazilian Sign Language) in Brazil, becoming a national reference in sign language.
 - [National Institute for Deaf Children of Paris](http://www.injs-paris.fr) -  Deaf school founded by Charles-Michel de l'Épée in 1760, in Paris, France.
+- [Trinity College Dublin - Centre for Deaf Studies - CDS](https://www.tcd.ie/slscs/cds/) - Trinity is one of the top 50 universities in the world and is the only college in Ireland to offer a bachelor degree in Deaf Studies.
 
 ### Researchers
 
