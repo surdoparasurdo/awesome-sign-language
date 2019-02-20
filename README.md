@@ -8,6 +8,7 @@ Wherever communities of deaf people exist, sign languages have developed, and ar
 ## Contents
 
 - [Resources](#resources)
+	- [Getting Started](#getting-started)
 	- [Universities](#universities)
 	- [Researchers](#researchers)
 	- [Learn Sign Language](#learn-sign-language)
@@ -17,6 +18,12 @@ Wherever communities of deaf people exist, sign languages have developed, and ar
 
 
 ## Resources
+
+### Getting Started
+
+Are going to start a new Sign Language project? Before doing that, please read these two articles:
+- [Why the Signing Gloves Hype Needs to Stop](https://audio-accessibility.com/news/2016/05/signing-gloves-hype-needs-stop) - A summary of the main points to consider when creating a new project related to sign language
+- [Why Sign-Language Gloves Don't Help Deaf People](https://www.theatlantic.com/technology/archive/2017/11/why-sign-language-gloves-dont-help-deaf-people/545441) - Wearable technologies that claim to translate ASL overlook the intricacies of the language, as well as the needs of signers
 
 ### Universities
 
@@ -58,6 +65,10 @@ Wherever communities of deaf people exist, sign languages have developed, and ar
 #### BSL - British Sign Language
 
 - [Learn British Sign Language](https://www.british-sign.co.uk) - British Sign Language online course, free resources, games, information, and greeting cards.
+
+### Sign Language Projects
+
+-
 
 ### Community
 
